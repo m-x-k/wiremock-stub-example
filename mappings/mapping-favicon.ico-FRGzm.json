@@ -1,0 +1,26 @@
+{
+  "id" : "43937b48-ac6e-3a1c-8df2-96670b686217",
+  "uuid" : "43937b48-ac6e-3a1c-8df2-96670b686217",
+  "request" : {
+    "url" : "/favicon.ico",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 302,
+    "bodyFileName" : "body-favicon.ico-FRGzm.txt",
+    "headers" : {
+      "Date" : "Sun, 29 Jan 2017 13:03:35 GMT",
+      "Content-Type" : "text/html",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "Set-Cookie" : "__cfduid=dac217130fc00201ea1a85fd61ee4da3c1485695015; expires=Mon, 29-Jan-18 13:03:35 GMT; path=/; domain=.netflixroulette.net; HttpOnly",
+      "Location" : "http://netflixroulette.net/",
+      "CF-Cache-Status" : "EXPIRED",
+      "Vary" : "Accept-Encoding",
+      "Expires" : "Sun, 05 Feb 2017 13:03:35 GMT",
+      "Cache-Control" : "public, max-age=604800",
+      "Server" : "cloudflare-nginx",
+      "CF-RAY" : "328ce29515f73494-LHR"
+    }
+  }
+}

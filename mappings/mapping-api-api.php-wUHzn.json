@@ -1,0 +1,24 @@
+{
+  "id" : "5eefe9ac-c9eb-39c2-8d26-dd7d8c634b8c",
+  "uuid" : "5eefe9ac-c9eb-39c2-8d26-dd7d8c634b8c",
+  "request" : {
+    "url" : "/api/api.php?director=Quentin%20Tarantino",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-api-api.php-wUHzn.json",
+    "headers" : {
+      "Date" : "Sun, 29 Jan 2017 13:03:34 GMT",
+      "Content-Type" : "application/json",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "keep-alive",
+      "Set-Cookie" : "__cfduid=da369a2c2dcbc926bae2c46d22636faff1485695014; expires=Mon, 29-Jan-18 13:03:34 GMT; path=/; domain=.netflixroulette.net; HttpOnly",
+      "X-Powered-By" : "PHP/5.5.9-1ubuntu4.20",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "GET",
+      "Server" : "cloudflare-nginx",
+      "CF-RAY" : "328ce29254633494-LHR"
+    }
+  }
+}
