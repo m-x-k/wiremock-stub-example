@@ -1,5 +1,7 @@
 # Wiremock Stub Example
 
+Wiremock example with Docker support based on http://wiremock.org/docs/record-playback/
+
 ## Build
 
 ```
